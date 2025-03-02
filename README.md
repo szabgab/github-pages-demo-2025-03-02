@@ -16,6 +16,9 @@ Third line
 ## Animals
 
 1. cat
-3. snake
-4. crab
+1. snake
+1. crab
 
+[Git Maven](https://git.code-maven.com/)
+
+![this is a big animal](https://static.independent.co.uk/s3fs-public/thumbnails/image/2014/06/14/11/Tsavotrust.jpg)
