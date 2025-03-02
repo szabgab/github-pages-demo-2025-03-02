@@ -1,6 +1,9 @@
 # Welcome
 
 Some text here
+Second line
+
+Third line
 
 ## Fruits
 
@@ -13,7 +16,6 @@ Some text here
 ## Animals
 
 1. cat
-2. dog
 3. snake
 4. crab
 
